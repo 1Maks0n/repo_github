@@ -1,0 +1,4 @@
+viewmodel_offset_x 2.500000 
+viewmodel_offset_y 0 
+viewmodel_offset_z -1.5 
+viewmodel_fov 64 
